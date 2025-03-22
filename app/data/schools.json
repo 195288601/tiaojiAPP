@@ -1,0 +1,1552 @@
+[
+    {
+        "id": 1,
+        "name": "闽江学院",
+        "address": "福建省",
+        "major": "控制工程",
+        "recruitment_count": 27,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "hyf@mju.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 2,
+        "name": "西安邮电大学",
+        "address": "陕西西安",
+        "major": "控制工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 3,
+        "name": "北京信息科技大学",
+        "address": "北京",
+        "major": "控制工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 389,
+                "min": 308
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "bistu_auto_lw@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 4,
+        "name": "广西石油化工学院",
+        "address": "广东省茂名市",
+        "major": "控制工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 331,
+                "min": 288
+            },
+            "2023": {
+                "max": 350,
+                "min": 300
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 5,
+        "name": "长春大学",
+        "address": "吉林省长春市",
+        "major": "控制工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 374,
+                "min": 275
+            },
+            "2023": {
+                "max": 374,
+                "min": 292
+            },
+            "2022": {
+                "max": 348,
+                "min": 239
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "18843199160.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 6,
+        "name": "湘潭大学",
+        "address": "湖南省湘潭市",
+        "major": "能源动力",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 338,
+                "min": 278
+            },
+            "2021": {
+                "max": 386,
+                "min": 292
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 7,
+        "name": "江西理工大学",
+        "address": "江西省赣州市",
+        "major": "材料工程",
+        "recruitment_count": "2-4",
+        "scores": {
+            "2024": {
+                "max": 368,
+                "min": 260
+            },
+            "2023": {
+                "max": 353,
+                "min": 268
+            },
+            "2022": {
+                "max": 368,
+                "min": 274
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "hdecai135@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 8,
+        "name": "东北林业大学",
+        "address": "黑龙江哈尔滨市",
+        "major": "机器人工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 384,
+                "min": 298
+            },
+            "2023": {
+                "max": 396,
+                "min": 275
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "13836163924.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 9,
+        "name": "南宁师范大学",
+        "address": "广西南宁市",
+        "major": "材料与化学",
+        "recruitment_count": 2,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "yfzhang@nnnu.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 10,
+        "name": "重庆三门峡学院",
+        "address": "重庆三门峡市",
+        "major": "土木工程",
+        "recruitment_count": 3,
+        "scores": {
+            "2024": {
+                "max": 316,
+                "min": 274
+            },
+            "2023": {
+                "max": 319,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "398939142@qq.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 11,
+        "name": "重庆三门峡学院",
+        "address": "重庆三门峡市",
+        "major": "水利工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "wei313xing@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 12,
+        "name": "常州大学",
+        "address": "江苏省常州市",
+        "major": "动力工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 335,
+                "min": 301
+            },
+            "2023": {
+                "max": 365,
+                "min": 312
+            },
+            "2022": {
+                "max": 346,
+                "min": 276
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": "300分左右"
+    },
+    {
+        "id": 13,
+        "name": "齐鲁工业大学",
+        "address": "",
+        "major": "环境工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 307,
+                "min": 277
+            },
+            "2023": {
+                "max": 340,
+                "min": 284
+            },
+            "2022": {
+                "max": 345,
+                "min": 311
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "fanss@qlu.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 14,
+        "name": "西安工程大学",
+        "address": "",
+        "major": "环境工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 349,
+                "min": 288
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "675914052@qq.com",
+            "phone": "15029967605.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": "270-310分"
+    },
+    {
+        "id": 15,
+        "name": "西京学院",
+        "address": "",
+        "major": "水利工程",
+        "recruitment_count": 50,
+        "scores": {
+            "2024": {
+                "max": 332,
+                "min": 276
+            },
+            "2023": {
+                "max": 300,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "13720490099.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 16,
+        "name": "西京学院",
+        "address": "",
+        "major": "机械工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 316,
+                "min": 273
+            },
+            "2023": {
+                "max": 322,
+                "min": 250
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "13720490099.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 17,
+        "name": "西京学院",
+        "address": "",
+        "major": "土木工程",
+        "recruitment_count": 50,
+        "scores": {
+            "2024": {
+                "max": 316,
+                "min": 251
+            },
+            "2023": {
+                "max": 324,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "13720490099.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 18,
+        "name": "辽宁工程技术大学",
+        "address": "",
+        "major": "机械",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 276,
+                "min": 276
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 19,
+        "name": "昌吉学院",
+        "address": "",
+        "major": "化学工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 298,
+                "min": 266
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 20,
+        "name": "黑龙江工程学院",
+        "address": "",
+        "major": "测绘工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 328,
+                "min": 273
+            },
+            "2023": {
+                "max": 337,
+                "min": 283
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "15663756172.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 21,
+        "name": "昌吉学院",
+        "address": "",
+        "major": "材料工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 314,
+                "min": 263
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 22,
+        "name": "青岛科技大学",
+        "address": "",
+        "major": "化学工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "zhang_limbao@126.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 23,
+        "name": "湘潭大学",
+        "address": "湖南省湘潭市",
+        "major": "电子信息",
+        "recruitment_count": 15,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 365,
+                "min": 308
+            },
+            "2022": {
+                "max": 394,
+                "min": 278
+            },
+            "2021": {
+                "max": 410,
+                "min": 272
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 24,
+        "name": "浙江工业大学",
+        "address": "",
+        "major": "电子信息",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 364,
+                "min": 310
+            },
+            "2023": {
+                "max": 0,
+                "min": 405
+            },
+            "2022": {
+                "max": 298,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 25,
+        "name": "汕头大学",
+        "address": "",
+        "major": "电子信息",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 373,
+                "min": 291
+            },
+            "2023": {
+                "max": 365,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 26,
+        "name": "汕头大学",
+        "address": "",
+        "major": "机械",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 363,
+                "min": 273
+            },
+            "2023": {
+                "max": 381,
+                "min": 278
+            },
+            "2022": {
+                "max": 344,
+                "min": 284
+            },
+            "2021": {
+                "max": 407,
+                "min": 275
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 27,
+        "name": "汕头大学",
+        "address": "",
+        "major": "人工智能",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 374,
+                "min": 292
+            },
+            "2023": {
+                "max": 365,
+                "min": 284
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 28,
+        "name": "武汉纺织大学",
+        "address": "",
+        "major": "材料与化工",
+        "recruitment_count": 15,
+        "scores": {
+            "2024": {
+                "max": 334,
+                "min": 262
+            },
+            "2023": {
+                "max": 367,
+                "min": 256
+            },
+            "2022": {
+                "max": 336,
+                "min": 276
+            },
+            "2021": {
+                "max": 384,
+                "min": 221
+            }
+        },
+        "contact": {
+            "email": "13679407303@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 29,
+        "name": "上海第二工业大学",
+        "address": "上海市",
+        "major": "电子信息",
+        "recruitment_count": 30,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 396,
+                "min": 274
+            },
+            "2022": {
+                "max": 384,
+                "min": 266
+            },
+            "2021": {
+                "max": 363,
+                "min": 263
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 30,
+        "name": "江汉大学",
+        "address": "",
+        "major": "电子信息",
+        "recruitment_count": "1-2",
+        "scores": {
+            "2024": {
+                "max": 364,
+                "min": 287
+            },
+            "2023": {
+                "max": 364,
+                "min": 276
+            },
+            "2022": {
+                "max": 372,
+                "min": 286
+            },
+            "2021": {
+                "max": 358,
+                "min": 280
+            }
+        },
+        "contact": {
+            "email": "gongjingjing@jhun.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 31,
+        "name": "上海应用技术大学",
+        "address": "上海市",
+        "major": "电子信息",
+        "recruitment_count": 1,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 370,
+                "min": 279
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 32,
+        "name": "上海工程技术大学",
+        "address": "上海市",
+        "major": "材料与化工",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 336,
+                "min": 273
+            },
+            "2023": {
+                "max": 380,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "qin9002@126.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 33,
+        "name": "东北石油大学",
+        "address": "",
+        "major": "资源与环境",
+        "recruitment_count": 10,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 355,
+                "min": 277
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 34,
+        "name": "赣南师范大学",
+        "address": "",
+        "major": "资源与环境",
+        "recruitment_count": 10,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "bolong8111@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 35,
+        "name": "西安工程大学",
+        "address": "",
+        "major": "材料与化工",
+        "recruitment_count": 6,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 361,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "xq-liang@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 36,
+        "name": "辽宁工程技术大学",
+        "address": "",
+        "major": "矿业工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 361,
+                "min": 277
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 37,
+        "name": "沈阳化工大学",
+        "address": "辽宁省沈阳市",
+        "major": "动力工程",
+        "recruitment_count": 80,
+        "scores": {
+            "2024": {
+                "max": 372,
+                "min": 276
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 345,
+                "min": 274
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": "13280629817.0"
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 38,
+        "name": "沈阳化工大学",
+        "address": "辽宁省沈阳市",
+        "major": "机械工程",
+        "recruitment_count": 80,
+        "scores": {
+            "2024": {
+                "max": 342,
+                "min": 286
+            },
+            "2023": {
+                "max": 362,
+                "min": 310
+            },
+            "2022": {
+                "max": 337,
+                "min": 289
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 39,
+        "name": "武汉工程大学",
+        "address": "湖北省武汉市",
+        "major": "矿业工程",
+        "recruitment_count": 4,
+        "scores": {
+            "2024": {
+                "max": 322,
+                "min": 273
+            },
+            "2023": {
+                "max": 342,
+                "min": 273
+            },
+            "2022": {
+                "max": 338,
+                "min": 273
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 40,
+        "name": "浙江理工大学",
+        "address": "",
+        "major": "化学工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 357,
+                "min": 271
+            },
+            "2023": {
+                "max": 358,
+                "min": 277
+            },
+            "2022": {
+                "max": 343,
+                "min": 276
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "yuxds@zstu.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 41,
+        "name": "华北理工大学",
+        "address": "",
+        "major": "化学工程",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 329,
+                "min": 273
+            },
+            "2023": {
+                "max": 354,
+                "min": 273
+            },
+            "2022": {
+                "max": 342,
+                "min": 275
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 42,
+        "name": "福建理工大学",
+        "address": "",
+        "major": "材料与化工",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 334,
+                "min": 274
+            },
+            "2023": {
+                "max": 343,
+                "min": 300
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "fxu_fjut@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 43,
+        "name": "福建理工大学",
+        "address": "",
+        "major": "环境工程",
+        "recruitment_count": 6,
+        "scores": {
+            "2024": {
+                "max": 339,
+                "min": 274
+            },
+            "2023": {
+                "max": 356,
+                "min": 273
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "734654327@qq.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 44,
+        "name": "太原科技大学",
+        "address": "",
+        "major": "能源动力",
+        "recruitment_count": 21,
+        "scores": {
+            "2024": {
+                "max": 308,
+                "min": 279
+            },
+            "2023": {
+                "max": 331,
+                "min": 310
+            },
+            "2022": {
+                "max": 313,
+                "min": 289
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "nengyuan@tyust.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 45,
+        "name": "长江大学",
+        "address": "",
+        "major": "电子信息",
+        "recruitment_count": 50,
+        "scores": {
+            "2024": {
+                "max": 321,
+                "min": 274
+            },
+            "2023": {
+                "max": 333,
+                "min": 275
+            },
+            "2022": {
+                "max": 367,
+                "min": 273
+            },
+            "2021": {
+                "max": 381,
+                "min": 270
+            }
+        },
+        "contact": {
+            "email": "2419399026@qq.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 46,
+        "name": "鲁东大学",
+        "address": "",
+        "major": "材料工程",
+        "recruitment_count": 35,
+        "scores": {
+            "2024": {
+                "max": 322,
+                "min": 275
+            },
+            "2023": {
+                "max": 340,
+                "min": 274
+            },
+            "2022": {
+                "max": 350,
+                "min": 279
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 47,
+        "name": "湖北工业大学",
+        "address": "",
+        "major": "材料与化工",
+        "recruitment_count": 20,
+        "scores": {
+            "2024": {
+                "max": 344,
+                "min": 273
+            },
+            "2023": {
+                "max": 356,
+                "min": 273
+            },
+            "2022": {
+                "max": 340,
+                "min": 274
+            },
+            "2021": {
+                "max": 329,
+                "min": 263
+            }
+        },
+        "contact": {
+            "email": "pphlcheng@hbut.deu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 48,
+        "name": "上海应用技术大学",
+        "address": "上海市",
+        "major": "材料与化工",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 0,
+                "min": 0
+            },
+            "2022": {
+                "max": 329,
+                "min": 273
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "wangzhenwei@qq.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 49,
+        "name": "重庆交通大学",
+        "address": "四川省重庆市",
+        "major": "机械",
+        "recruitment_count": 0,
+        "scores": {
+            "2024": {
+                "max": 343,
+                "min": 276
+            },
+            "2023": {
+                "max": 393,
+                "min": 281
+            },
+            "2022": {
+                "max": 0,
+                "min": 0
+            },
+            "2021": {
+                "max": 0,
+                "min": 0
+            }
+        },
+        "contact": {
+            "email": "xiang.zhang@cqjtu.edu.cn",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    },
+    {
+        "id": 50,
+        "name": "黑龙江大学",
+        "address": "",
+        "major": "资源与环境",
+        "recruitment_count": 3,
+        "scores": {
+            "2024": {
+                "max": 0,
+                "min": 0
+            },
+            "2023": {
+                "max": 316,
+                "min": 275
+            },
+            "2022": {
+                "max": 329,
+                "min": 266
+            },
+            "2021": {
+                "max": 337,
+                "min": 264
+            }
+        },
+        "contact": {
+            "email": "miaoshoulei@163.com",
+            "phone": ""
+        },
+        "created_at": "2025-03-21 21:12:07",
+        "remark": ""
+    }
+]
